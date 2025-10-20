@@ -45,7 +45,7 @@ Cloud and data warehousing tools like Snowflake and Azure are valued in higher-p
 Version control and collaboration tools (GitLab, Bitbucket, Confluence, Atlassian) are also expected — suggesting these roles involve teamwork and production data workflows.
 Excel remains relevant, even for senior or high-paying roles.
 
-JSON FILE
+Results
 [
   {
     "job_id": 552322,
