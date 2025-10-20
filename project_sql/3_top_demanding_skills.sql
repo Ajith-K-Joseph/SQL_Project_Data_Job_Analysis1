@@ -23,3 +23,34 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 
+/*
+Insights
+The data reveals a clear prioritization of foundational data tools and query languages over programming and visualization skills. 
+SQL is the most demanded skill by a significant margin ($\mathbf{92,628}$ job postings), followed by Excel ($\mathbf{67,031}$). 
+This indicates that employers highly value professionals who can efficiently access, manage, and manipulate structured data 
+before moving on to advanced analytics or visualization with tools like Python, Tableau, and Power BI.
+
+Result:
+[
+  {
+    "skills": "sql",
+    "demand_count": "92628"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "67031"
+  },
+  {
+    "skills": "python",
+    "demand_count": "57326"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "46554"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "39468"
+  }
+]
+*/
