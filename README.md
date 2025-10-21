@@ -1,4 +1,4 @@
-# Introduction
+# 🔰 Introduction
 🌍 Welcome to Project Data Analyst!
 
 A comprehensive analysis of global data analyst job postings from 2023.
@@ -6,7 +6,7 @@ This project aims to provide actionable insights into 💰 salary trends, 💡 m
 
 🧾 **SQL queries?** Check them out here: [project_sql folder](/project_sql/) 
 
-# 📝Background
+# 📝 Background
 ## 🧭 About This Project  
 
 This project began with one simple goal — to **decode the data analyst job market**.  
@@ -33,7 +33,7 @@ To explore the data analyst job market in depth, I leveraged a set of powerful t
 - **🌐 Git & GitHub:** For version control, tracking project progress, and sharing SQL scripts and findings with the community.  
 - **🤖 ChatGPT:** Assisted in brainstorming approaches, refining SQL queries, and drafting clear explanations for the project.  
 
-# The Analysis
+# 📈 The Analysis
 For this project, each SQL query was crafted to uncover a unique insight into the data analyst job market. Here’s the approach I took to answer each key question:
 
 ## 📊 1.Top Paying Data Analyst Jobs
