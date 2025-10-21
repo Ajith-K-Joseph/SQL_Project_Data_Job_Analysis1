@@ -109,7 +109,8 @@ ORDER BY
 - **💻 Core Languages:** SQL and Python are the most essential skills, appearing in the majority of top-paying job postings (**8** and **7** mentions, respectively).  
 - **📊 Visualization Demand:** Tableau is highly valued (**6** mentions), reflecting the strong need for data communication and visualization skills.  
 - **☁️ Future-Proofing:** Proficiency in cloud and big data tools like **Snowflake** and **Azure** is becoming increasingly important for securing the highest-paying roles.  
-![skills for top paying jobs](graphs\top_skills.png)
+![skills for top paying jobs](/graphs/top_skills.png)
+
 *Bar chart showing the most frequent skills among the top 10 best-paying data analyst jobs, generated from SQL query insights with ChatGPT’s help.*
 
 ## 🔍 3. In-Demand Skills for Data Analysts  
