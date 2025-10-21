@@ -266,7 +266,7 @@ This project not only strengthened my **💻 SQL skills** but also provided valu
 
 By focusing on **📊 high-demand, high-salary skills**, aspiring data analysts can better position themselves in a competitive landscape. This exploration also underscores the importance of **🧠 continuous learning** and staying adaptable to emerging trends in the field of data analytics.
 
-# 🔚👋
+# 🔚👋🚪
 
 
 
