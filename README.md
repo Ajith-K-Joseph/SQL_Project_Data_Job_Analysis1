@@ -260,7 +260,7 @@ This project provided a comprehensive overview of the data analyst job market in
 
 Overall, this analysis demonstrates how **data-driven approaches** can guide career decisions, helping professionals focus on skills that truly matter in the competitive data analytics landscape.
 
-## 📝 Closing Thoughts  
+### 📝 Closing Thoughts  
 
 This project not only strengthened my **💻 SQL skills** but also provided valuable insights into the global data analyst job market. The findings offer guidance for prioritizing skill development and targeting the most promising job opportunities.  
 
