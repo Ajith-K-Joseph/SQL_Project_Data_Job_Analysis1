@@ -56,8 +56,8 @@ INNER JOIN skills_avg
     ON skills_demand.skill_id = skills_avg.skill_id
 --WHERE demand_count > 10
 ORDER BY
-    avg_salary DESC,
-    demand_count DESC
+    demand_count DESC,
+    avg_salary DESC
 LIMIT 25;
 
 /*
@@ -83,6 +83,6 @@ GROUP BY
     skills_dim.skill_id
 --HAVING COUNT(skills_job_dim.job_id) > 10
 ORDER BY
-    avg_salary DESC,
-    demand_count DESC
+    demand_count DESC,
+    avg_salary DESC
 LIMIT 25;
